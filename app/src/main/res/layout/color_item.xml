@@ -1,0 +1,16 @@
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/color_selection"
+    android:padding="16dp"
+    app:cardBackgroundColor="#b2b2b2"
+    app:cardCornerRadius="0dp"
+    android:layout_width="80dp"
+    android:layout_height="80dp">
+
+
+
+
+
+</androidx.cardview.widget.CardView>
